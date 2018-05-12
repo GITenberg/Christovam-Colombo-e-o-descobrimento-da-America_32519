@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34196'
     url: http://www.gutenberg.org/2009/agents/34196
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32519#Christovam-Colombo-e-o-descobrimento-da-America
 gutenberg_bookshelf:
 - PT Navegações e Explorações
 - PT Biografia
