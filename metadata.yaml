@@ -1,0 +1,35 @@
+_repo: Christovam-Colombo-e-o-descobrimento-da-America_32519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silva, J. M. Pereira da (João Manuel Pereira)
+    aliases:
+    - Pereira da Silva, J. M. (João Manuel)
+    - Da Silva, J. M. Pereira (João Manuel Pereira)
+    - Silva, João Manuel Pereira da
+    - Silva, J. M. Pereira da (Joao Manuel Pereira)
+    birthdate: 1817
+    deathdate: 1898
+    gutenberg_agent_id: '34196'
+    url: http://www.gutenberg.org/2009/agents/34196
+description: ''
+gutenberg_bookshelf:
+- PT Navegações e Explorações
+- PT Biografia
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32519'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'Columbus, Christopher'
+title: Christovam Colombo e o descobrimento da America
+url: http://www.gutenberg.org/ebooks/32519
